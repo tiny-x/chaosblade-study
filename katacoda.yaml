@@ -1,0 +1,6 @@
+scenario_root : tutorials/katacoda
+directory:
+  - folderName: chaosblade-basics-cn
+    title: ChaosBlade 基础教程
+  - folderName: chaosblade-advanced-cn
+    title: ChaosBlade 进阶教程
